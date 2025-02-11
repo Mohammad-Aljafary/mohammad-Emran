@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammad-Emran
+- 👋 Hi, I’m @mohammad-Alja'fary
 - 👀 I’m interested in programming and machine learning
 - 🌱 I’m currently learning software engineering and ai
 - 📫 How to reach me muhmmadomar121@gmail.com
